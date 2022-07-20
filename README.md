@@ -47,7 +47,7 @@ Permissions:
 
 ### To get a local copy up and running follow these simple steps:
 
-1. Clone the repo `https://github.com/Adelam5/user-management-system.git`
+1. Clone the repo `https://github.com/Adelam5/user-management.git`
 2. Install NPM packages `npm install` for backend (from server folder) and frontend (from client folder)
 3. Rename .env.exemple to .env (in server folder) and fill in the necessary data
 4. Start server `npm start` (from server folder), start client `npm start` (from client folder)
